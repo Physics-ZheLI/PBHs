@@ -1,0 +1,73 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 14.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1912,         65]
+NotebookOptionsPosition[      1265,         44]
+NotebookOutlinePosition[      1711,         61]
+CellTagsIndexPosition[      1668,         58]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Get EoMs from Action", "Title",
+ CellChangeTimes->{{3.9387633078330307`*^9, 3.938763318061672*^9}, {
+  3.9387633709183483`*^9, 
+  3.938763381149046*^9}},ExpressionUUID->"1609afc3-6093-da4f-83ea-\
+6155171dbbe0"],
+
+Cell[CellGroupData[{
+
+Cell["Setups", "Section",
+ CellChangeTimes->{{3.938763396911297*^9, 
+  3.938763404849203*^9}},ExpressionUUID->"27fba2f9-6005-954a-b5c9-\
+d033817fea71"],
+
+Cell[BoxData[{
+ RowBox[{"ClearAll", "[", "\"\<Global`*\>\"", "]"}], "\[IndentingNewLine]", 
+ RowBox[{"<<", "xAct`xTensor`"}]}], "Input",
+ CellChangeTimes->{{3.938763407324215*^9, 
+  3.938763450387203*^9}},ExpressionUUID->"f896a67c-e027-f544-9cd6-\
+09c70e2b2304"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{766.8, 789.5999999999999},
+WindowMargins->{{Automatic, -4.7999999999999545`}, {Automatic, 0}},
+FrontEndVersion->"14.0 for Microsoft Windows (64-bit) (2023\:5e7412\:670812\
+\:65e5)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"b2b23587-a76b-0c46-ae81-166172d2c6b9"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 216, 4, 122, "Title",ExpressionUUID->"1609afc3-6093-da4f-83ea-6155171dbbe0"],
+Cell[CellGroupData[{
+Cell[821, 30, 151, 3, 83, "Section",ExpressionUUID->"27fba2f9-6005-954a-b5c9-d033817fea71"],
+Cell[975, 35, 262, 5, 80, "Input",ExpressionUUID->"f896a67c-e027-f544-9cd6-09c70e2b2304"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
